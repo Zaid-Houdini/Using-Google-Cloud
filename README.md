@@ -180,7 +180,12 @@ sudo certbot --apache -d example.com (appsbroker.duckdns.org)
 https://www.ssllabs.com/ssltest/analyze.html?d=example.com
 ```
 
+
+
 https://appsbroker.duckdns.org
+
+
+
 
 ## Acknowledgements
 
